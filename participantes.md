@@ -7,7 +7,8 @@ Este archivo contiene la lista de personas que han contribuido al repositorio.
 - Alejandro Montes Moreno
 
 ## Alumnos
-
-Agrega tu nombre debajo de esta línea:
+Naomi 
+Fabricio Mata
+Leon 
 
 - Luis ANgel Alatorre Zenea
